@@ -2,12 +2,11 @@
   <img src="https://raw.githubusercontent.com/bilalraohamza/bilalraohamza/main/Github%20Banner%20png.png" alt="Rao Hamza Bilal - AI Engineer" width="100%" />
 </p>
 
-<h1>Hey there <img src="YOUR_GIF_URL" width="30px" /></h1> <img src="https://raw.githubusercontent.com/bilalraohamza/bilalraohamza/main/wave.gif" width="30px" height="30px" />
+### Hey there 👋 <img src="https://raw.githubusercontent.com/bilalraohamza/bilalraohamza/main/wave.gif" width="30px" height="30px" />
 
 My name is Rao Hamza Bilal, and I'm a Computer Science student focused on Computer Vision and Applied ML. I'm from Pakistan, currently living in China. I'm on a personalized AI Engineering journey, working toward becoming an AI Engineer.
 
 👨‍💻 All of my projects are available at [github.com/bilalraohamza](https://github.com/bilalraohamza?tab=repositories)
-
 <br>
 
 ### 🔧 Technologies & Tools
@@ -27,7 +26,6 @@ My name is Rao Hamza Bilal, and I'm a Computer Science student focused on Comput
 ![Tools](https://img.shields.io/badge/Tools-Git-2bbc8a?style=flat-square&logo=git&logoColor=white&labelColor=2b2b2b)
 ![Tools](https://img.shields.io/badge/Tools-GitHub-2bbc8a?style=flat-square&logo=github&logoColor=white&labelColor=2b2b2b)
 ![Cloud](https://img.shields.io/badge/Cloud-Google%20Cloud-2bbc8a?style=flat-square&logo=googlecloud&logoColor=white&labelColor=2b2b2b)
-
 <br>
 
 ### 🔗 Find me here
