@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Rao Hamza Bilal - AI Engineer" width="100%" />
+  <img src="Github Banner.png" alt="Rao Hamza Bilal - AI Engineer" width="100%" />
 </p>
 
 Computer Science undergrad working with Python, PyTorch and OpenCV, focused on Computer Vision and parameter-efficient fine-tuning (LoRA/QLoRA) of Vision-Language Models.
