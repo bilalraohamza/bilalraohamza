@@ -30,6 +30,6 @@ My name is Rao Hamza Bilal, and I'm a Computer Science student focused on Comput
 
 ### 🔗 Find me here
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raohamzabilal/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ha_mzabilal)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raohamzabilal@gmail.com)
+[![Connect](https://img.shields.io/badge/Connect-LinkedIn-2bbc8a?style=flat-square&logo=linkedin&logoColor=white&labelColor=2b2b2b)](https://www.linkedin.com/in/raohamzabilal/)
+[![Connect](https://img.shields.io/badge/Connect-Instagram-2bbc8a?style=flat-square&logo=instagram&logoColor=white&labelColor=2b2b2b)](https://instagram.com/ha_mzabilal)
+[![Connect](https://img.shields.io/badge/Connect-Email-2bbc8a?style=flat-square&logo=gmail&logoColor=white&labelColor=2b2b2b)](mailto:raohamzabilal@gmail.com)
