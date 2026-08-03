@@ -1,8 +1,7 @@
 <p align="center">
   <img src="Github Banner.png" alt="Rao Hamza Bilal - AI Engineer" width="100%" />
 </p>
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-
+Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 I'm Rao Hamza Bilal, a Computer Science undergrad, focused on Computer Vision and Applied ML, currently working through a personalized AI Engineering roadmap.
 My work so far includes building an image classification system (VisoLearn AI Studio, using an EfficientNet-B4 + DenseNet-169 ensemble deployed via ONNX with Grad-CAM interpretability), a multi-agent agricultural AI system (Kisan AI, built with Groq and Gemini, deployed on Google Cloud Run, which placed in the regional shortlist — top 11 nationally — at the Google AI Seekho 2026 Antigravity Hackathon), and a role-based web platform (Photography Studio Management System, built with Flask and SQL Server).
 I use Python, Java, C++, PyTorch, TensorFlow, scikit-learn, OpenCV, pandas, and NumPy as my core toolkit, and I'm currently deepening my foundations through structured practice on HackerRank.
