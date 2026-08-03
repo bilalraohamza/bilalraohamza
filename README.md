@@ -6,7 +6,7 @@
 
 My name is Rao Hamza Bilal, and I'm a Computer Science student focused on Computer Vision and Applied ML. I'm from Pakistan, currently living in China. I'm on a personalized AI Engineering journey, working toward becoming an AI Engineer.
 
-👨‍💻 All of my projects are available at (github.com/bilalraohamza?tab=repositories)
+👨‍💻 All of my projects are available at [github.com/bilalraohamza?tab=repositories](https://github.com/bilalraohamza?tab=repositories)
 <br>
 
 ### 🔧 Technologies & Tools
