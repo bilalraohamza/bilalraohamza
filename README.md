@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/bilalraohamza/bilalraohamza/main/Github%20Banner%20png.png" alt="Rao Hamza Bilal - AI Engineer" width="100%" />
 </p>
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/bilalraohamza/bilalraohamza/main/wave.gif" width="30px" height="30px" />>
+# Hello, folks! <img src="https://raw.githubusercontent.com/bilalraohamza/bilalraohamza/main/wave.gif" width="30px" height="30px" />
 
 My name is Rao Hamza Bilal, and I'm a Computer Science student focused on Computer Vision and Applied ML. I'm from Pakistan, currently living in China. I'm on a personalized AI Engineering journey, working toward becoming an AI Engineer.
 
