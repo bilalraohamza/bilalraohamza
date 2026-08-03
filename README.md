@@ -1,17 +1,16 @@
 <p align="center">
   <img src="Github Banner.png" alt="Rao Hamza Bilal - AI Engineer" width="100%" />
 </p>
-Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-I'm Rao Hamza Bilal, a Computer Science undergrad, focused on Computer Vision and Applied ML, currently working through a personalized AI Engineering roadmap.
-My work so far includes building an image classification system (VisoLearn AI Studio, using an EfficientNet-B4 + DenseNet-169 ensemble deployed via ONNX with Grad-CAM interpretability), a multi-agent agricultural AI system (Kisan AI, built with Groq and Gemini, deployed on Google Cloud Run, which placed in the regional shortlist — top 11 nationally — at the Google AI Seekho 2026 Antigravity Hackathon), and a role-based web platform (Photography Studio Management System, built with Flask and SQL Server).
-I use Python, Java, C++, PyTorch, TensorFlow, scikit-learn, OpenCV, pandas, and NumPy as my core toolkit, and I'm currently deepening my foundations through structured practice on HackerRank.
-I'm looking for remote AI/ML internship opportunities, and I'm also pursuing a Master's degree in Artificial Intelligence as a parallel long-term path.
 
-### 🔗 Find me here
+<h3 align="center">
+  Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raohamzabilal/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ha_mzabilal)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raohamzabilal@gmail.com)
+My name is Rao Hamza Bilal, and I'm a Computer Science student focused on Computer Vision and Applied ML. I'm from Pakistan, currently living in China. I'm on a personalized AI Engineering journey, working toward becoming an AI Engineer.
+
+👨‍💻 All of my projects are available at [github.com/bilalraohamza](https://github.com/bilalraohamza?tab=repositories)
+
+<br>
 
 ### 🔧 Technologies & Tools
 
@@ -31,15 +30,10 @@ I'm looking for remote AI/ML internship opportunities, and I'm also pursuing a M
 ![Tools](https://img.shields.io/badge/Tools-GitHub-2bbc8a?style=flat-square&logo=github&logoColor=white&labelColor=2b2b2b)
 ![Cloud](https://img.shields.io/badge/Cloud-Google%20Cloud-2bbc8a?style=flat-square&logo=googlecloud&logoColor=white&labelColor=2b2b2b)
 
-### 🚀 Some Projects
+<br>
 
-- [**AI Skin Cancer Detection Platform**](https://github.com/bilalraohamza/visolearn-ai-studio) — EfficientNet-B4 + DenseNet169 ensemble for skin lesion classification, with Grad-CAM and ONNX deployment
-- [**Distributed Smart City Traffic Command System**](https://github.com/bilalraohamza/traffic-simulation-system) — Real-time vehicle detection across a Python edge node + Java command center
-- [**AI Lead Generation System**](https://github.com/bilalraohamza/lead-gen-system) — Scrapes and scores leads using an LLM-based intent classifier
-- [**Kisan AI**](https://github.com/bilalraohamza/kisan-ai) — Multi-agent AI system for agricultural decision support, deployed on Google Cloud Run
-- **YOLOv8 Fire & Smoke Detection** — Benchmarking YOLOv8 variants for real-time fire/smoke detection *(academic project, repo not public)*
+### 🔗 Find me here
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilalraohamza&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalraohamza&layout=compact&theme=dark&hide_border=true" width="48%" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raohamzabilal/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ha_mzabilal)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raohamzabilal@gmail.com)
